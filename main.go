@@ -28,7 +28,7 @@ func init() {
 	{{ \__,_/_/ /_/\__,_/_/   \____/_/\__,_/\__, /_/      }}::blue
 	{{                                        /_/         }}::cyan
 	`)
-	cfmt.Println("\tandroidqf - Android Quick Forensics")
+	cfmt.Println("\tandroidqf - Android Quick Fensics")
 	cfmt.Println()
 }
 
